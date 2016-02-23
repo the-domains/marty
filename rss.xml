@@ -4,21 +4,21 @@
         <description><![CDATA[Tools that we build]]></description>
         <link>https://thegrid.ai/marty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 23:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 23:38:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>We're  a new software development company with a mission to build simple and intuitive software tools.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/194c55cd-c410-4c59-93f2-61bfb0ba4d7b.png"></article>]]></description>
+            <link>https://thegrid.ai/marty/about-us/index.html</link>
+            <guid isPermaLink="false">80c42117-1611-417b-9ba6-89760fe64b3d</guid>
+            <pubDate>Tue, 23 Feb 2016 23:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chronos]]></title>
             <description><![CDATA[<article><h1>Chronos</h1><p>Chronos </p></article>]]></description>
             <link>https://thegrid.ai/marty/chronos/index.html</link>
             <guid isPermaLink="false">7f9f6875-1f19-4930-96de-58089d047a43</guid>
             <pubDate>Tue, 23 Feb 2016 23:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About us]]></title>
-            <description><![CDATA[<article><h1>About us</h1><p>We're  a new software development company with a mission to build simple and intuitive software tools.</p></article>]]></description>
-            <link>https://thegrid.ai/marty/about-us/index.html</link>
-            <guid isPermaLink="false">80c42117-1611-417b-9ba6-89760fe64b3d</guid>
-            <pubDate>Tue, 23 Feb 2016 23:19:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MSMQ Viewer]]></title>
