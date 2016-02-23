@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Marty]]></title>
-        <description><![CDATA[Marty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tools that we build]]></title>
+        <description><![CDATA[Tools that we build]]></description>
+        <link>https://thegrid.ai/marty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 23:14:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 23:20:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>We're  a new software development company with a mission to build simple and intuitive software tools.</p></article>]]></description>
+            <link>https://thegrid.ai/marty/about-us/index.html</link>
+            <guid isPermaLink="false">80c42117-1611-417b-9ba6-89760fe64b3d</guid>
+            <pubDate>Tue, 23 Feb 2016 23:19:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MSMQ Viewer]]></title>
             <description><![CDATA[<h1>MSMQ Viewer</h1>]]></description>
-            <link>undefinedmsmq-viewer/index.html</link>
+            <link>https://thegrid.ai/marty/msmq-viewer/index.html</link>
             <guid isPermaLink="false">a14f4822-115d-41c7-8bc5-9b82c943c858</guid>
             <pubDate>Tue, 23 Feb 2016 23:14:04 GMT</pubDate>
         </item>
