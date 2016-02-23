@@ -4,8 +4,15 @@
         <description><![CDATA[Tools that we build]]></description>
         <link>https://thegrid.ai/marty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 23:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 23:21:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chronos]]></title>
+            <description><![CDATA[<article><h1>Chronos</h1><p>Time tracking application</p></article>]]></description>
+            <link>https://thegrid.ai/marty/chronos/index.html</link>
+            <guid isPermaLink="false">7f9f6875-1f19-4930-96de-58089d047a43</guid>
+            <pubDate>Tue, 23 Feb 2016 23:21:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About us]]></title>
             <description><![CDATA[<article><h1>About us</h1><p>We're  a new software development company with a mission to build simple and intuitive software tools.</p></article>]]></description>
